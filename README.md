@@ -6,6 +6,6 @@ IK2C
 
 ## Halaman Detail
 
-![Img Detail](images/home.png)
+![Img Detail](images/home.PNG)
 
 Menampilkan halaman detail wisata yang telah saya buat mengenai Rawa Pening yang terletak di Kabupaten Semarang.
